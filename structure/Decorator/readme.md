@@ -1,4 +1,4 @@
-## Fabrique abstraite (Abstract Factory)
+## Decorator
 * __Catégorie__:
     * Création
 * __OBJECTIFS__

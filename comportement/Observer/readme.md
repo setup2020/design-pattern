@@ -1,4 +1,4 @@
-## Fabrique abstraite (Abstract Factory)
+## Observer pattern
 * __Catégorie__:
     * Comportement
 * __OBJECTIFS__
