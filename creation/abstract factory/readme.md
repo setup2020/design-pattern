@@ -1,9 +1,9 @@
-# Fabrique abstraite (Abstract Factory)
-* Catégorie:
+## Fabrique abstraite (Abstract Factory)
+* __Catégorie__:
     * Création
-* OBJECTIFS
+* __OBJECTIFS__
     * Fournier une interface pour créer des objets d'une même famille sans préciser leurs classes concrètes.
-* RESULTAT:
+* __RESULTAT__:
     * Le Design Pattern permet d'isoler l'appartenance à une famille de classe.
-* Graphe  
+* __Graphe__  
 ![plot](1.png)
